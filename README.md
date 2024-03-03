@@ -141,3 +141,6 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
+Password: pass123#
+
+AWS KEY: AKIAIOSFODNN7EXAMPLE Secret Key: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
